@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+.awesome{
+    background-color: gray;
+    color: white;
+    padding: 1em;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 1em;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+}
