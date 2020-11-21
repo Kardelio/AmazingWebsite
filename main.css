@@ -1,15 +1,22 @@
+*{
+	font-family: Arial, Helvetica, sans-serif;
+}
 body{
     text-align: center;
+    background-image: url("jaam-gate.jpg");
+    
+    
 }
 
 .awesome{
-    background-color: gray;
-    color: white;
+    background-color: #34568b;
+    color: #ecf1f8;
     padding: 1em;
+    margin:0;
 }
 
 button {
-    background-color: red;
+    background-color: #34568b;
     color: white;
     padding: 1em;
     border: 2px solid darkgreen;
