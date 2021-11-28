@@ -1,0 +1,13 @@
+Here is a sentence first
+
+Then a second line
+
+none of the above will change, thats nice and easy
+
+However....
+
+Please enter your name here: _______
+
+That line above is going to change...
+
+And its going to cause a conflict!
