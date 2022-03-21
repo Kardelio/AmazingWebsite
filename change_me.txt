@@ -6,7 +6,7 @@ none of the above will change, thats nice and easy
 
 However....
 
-Please enter your name here: Ben (Sam Orange)
+Please enter your name here: kajdfhglsdkahfohdklj
 
 That line above is going to change...
 
