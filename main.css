@@ -9,9 +9,26 @@ body{
 }
 
 button {
-    background-color: red;
+    background-color: gray;
+
     color: white;
-    padding: 1em;
-    border: 2px solid darkgreen;
+    padding: 14px 70px;
+    border: 2px solid black;
     border-radius: 5px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 150;
+}
+.web{
+    background-color: #f6e0b5;
+}
+.new{
+    background-color: #aa6f73;
+    background-size: cover;
+}
+.text{
+    text-decoration: wavy;
 }
